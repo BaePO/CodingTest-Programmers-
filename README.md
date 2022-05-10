@@ -1,3 +1,5 @@
-# CodingTest-Programmers-
+# CodingTest-Programmers
 
-reference : https://github.com/BaePO/programmers-coding-test
+reference
+Programmers : https://programmers.co.kr/learn/challenges
+Github : https://github.com/BaePO/programmers-coding-test
